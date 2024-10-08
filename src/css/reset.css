@@ -86,6 +86,26 @@ video {
   font: inherit;
   vertical-align: baseline;
 }
+
+.bg-img {
+  background-image: url(../img/background.png);
+}
+
+.bg-img-footer {
+  background-image: url(../img/footer-background.png);
+}
+
+.bg-color {
+  background-color: #6f6f6f;
+}
+
+.shadown {
+  box-shadow: 0px 0px 15px 2px gray;
+  border-radius: 9999px;
+  width: 16rem;
+  margin-top: 1.5rem;
+}
+
 /* HTML5 display-role reset for older browsers */
 article,
 aside,
